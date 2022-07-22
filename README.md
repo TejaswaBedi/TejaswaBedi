@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @TejaswaBedi
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in contributing in project
 - 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on Java [rojects
+      I have some knowledge of Java
+- 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me tejaswa1234bedi@gmail.com
 
 <!---
