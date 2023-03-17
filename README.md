@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TejaswaBedi
 - 👀 I’m interested in contributing in project
-- 🌱 I’m currently learning C and Python
-      I have some knowledge of Java
-- 💞️ I’m looking to collaborate on ML Projects
+- 🌱 I have knowlede of C, C++, Java, Python, Html, Css, Js, ReactJs and SQL.
 - 📫 How to reach me tejaswa1234bedi@gmail.com
 
 <!---
